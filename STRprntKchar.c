@@ -6,6 +6,6 @@ int main(void) {
             scanf("%s",&s);
             scanf("%d",&k);
 	for(i=0;i<k;i++)
-	printf("%s",s[i]);
+	printf("%c",s[i]);
 	return 0;
 }
